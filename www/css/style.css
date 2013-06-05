@@ -398,3 +398,26 @@ table td {
 .index-bottom-banner.last {
 	margin-right:0;
 }
+
+/* CONTACTS */
+
+.map-wrapper {
+	width:999px;
+	height:590px;
+	background:#fff;
+	position:relative;
+}
+
+.address-block {
+	width:180px;
+	height:60px;
+	background:url(../i/grey-bg.png);
+	padding:5px 10px 15px;
+	position:absolute;
+	left:45px;
+	top:55px;
+}
+.address-block p {
+	color:#fff;
+	font:normal 13px/16px Arial, sans-serif;	
+}
